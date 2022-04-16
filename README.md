@@ -1,2 +1,3 @@
 # SimpleCoordinateConverter
 超级简易的坐标转换器
+目前仅支持GWS-84→EndlessATC和PMDG→EndlessATC的转换方式
